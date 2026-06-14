@@ -1,0 +1,188 @@
+[
+  {
+    "id": "1",
+    "title": "Senior iOS Developer",
+    "company": "TechCorp",
+    "companyLogo": "building.2.fill",
+    "location": "Remote",
+    "salaryRange": "$120k-$160k",
+    "employmentType": "Full-time",
+    "postedDate": "2026-06-01",
+    "experienceRequired": "5+ years",
+    "description": "Join our mobile team to build world-class iOS applications.",
+    "responsibilities": [
+      "Design and implement SwiftUI features",
+      "Collaborate with cross-functional teams",
+      "Write unit and UI tests",
+      "Review code and mentor juniors"
+    ],
+    "requirements": [
+      "5+ years iOS experience",
+      "SwiftUI and Combine expertise",
+      "Strong understanding of MVVM"
+    ],
+    "benefits": [
+      "Health insurance",
+      "Remote work",
+      "Stock options",
+      "Learning budget"
+    ],
+    "companyOverview": "TechCorp is a leading technology company building innovative products.",
+    "companyWebsite": "https://techcorp.example.com",
+    "companySize": "500-1000",
+    "industry": "Technology"
+  },
+  {
+    "id": "2",
+    "title": "Mobile Engineer",
+    "company": "StartupXYZ",
+    "companyLogo": "bolt.fill",
+    "location": "San Francisco, CA",
+    "salaryRange": "$100k-$140k",
+    "employmentType": "Full-time",
+    "postedDate": "2026-05-28",
+    "experienceRequired": "3+ years",
+    "description": "Build the next generation mobile experience at a fast-growing startup.",
+    "responsibilities": [
+      "Develop new features in SwiftUI",
+      "Optimize app performance",
+      "Participate in architecture decisions"
+    ],
+    "requirements": [
+      "3+ years mobile development",
+      "Swift proficiency",
+      "Startup mindset"
+    ],
+    "benefits": [
+      "Equity",
+      "Flexible hours",
+      "Free lunch"
+    ],
+    "companyOverview": "StartupXYZ is revolutionizing how people find work.",
+    "companyWebsite": "https://startupxyz.example.com",
+    "companySize": "50-100",
+    "industry": "HR Tech"
+  },
+  {
+    "id": "3",
+    "title": "iOS Architect",
+    "company": "MegaSoft",
+    "companyLogo": "cpu.fill",
+    "location": "New York, NY",
+    "salaryRange": "$150k-$200k",
+    "employmentType": "Full-time",
+    "postedDate": "2026-05-20",
+    "experienceRequired": "8+ years",
+    "description": "Lead the iOS architecture for enterprise-scale applications.",
+    "responsibilities": [
+      "Define architecture standards",
+      "Lead technical design reviews",
+      "Drive performance optimization"
+    ],
+    "requirements": [
+      "8+ years iOS experience",
+      "Architecture leadership",
+      "CI/CD expertise"
+    ],
+    "benefits": [
+      "Premium healthcare",
+      "401k matching",
+      "Sabbatical program"
+    ],
+    "companyOverview": "MegaSoft delivers enterprise software solutions globally.",
+    "companyWebsite": "https://megasoft.example.com",
+    "companySize": "5000+",
+    "industry": "Enterprise Software"
+  },
+  {
+    "id": "4",
+    "title": "SwiftUI Developer",
+    "company": "DesignHub",
+    "companyLogo": "paintbrush.fill",
+    "location": "Austin, TX",
+    "salaryRange": "$90k-$120k",
+    "employmentType": "Contract",
+    "postedDate": "2026-06-05",
+    "experienceRequired": "2+ years",
+    "description": "Create beautiful, accessible SwiftUI interfaces.",
+    "responsibilities": [
+      "Implement pixel-perfect designs",
+      "Ensure accessibility compliance",
+      "Build reusable components"
+    ],
+    "requirements": [
+      "2+ years SwiftUI",
+      "Design system experience",
+      "Accessibility knowledge"
+    ],
+    "benefits": [
+      "Flexible contract terms",
+      "Remote option"
+    ],
+    "companyOverview": "DesignHub crafts delightful digital experiences.",
+    "companyWebsite": "https://designhub.example.com",
+    "companySize": "100-200",
+    "industry": "Design"
+  },
+  {
+    "id": "5",
+    "title": "Lead iOS Engineer",
+    "company": "FinTech Pro",
+    "companyLogo": "dollarsign.circle.fill",
+    "location": "Chicago, IL",
+    "salaryRange": "$130k-$170k",
+    "employmentType": "Full-time",
+    "postedDate": "2026-06-08",
+    "experienceRequired": "6+ years",
+    "description": "Lead iOS development for a secure fintech platform.",
+    "responsibilities": [
+      "Lead a team of iOS engineers",
+      "Ensure security best practices",
+      "Ship features on schedule"
+    ],
+    "requirements": [
+      "6+ years iOS",
+      "Security experience",
+      "Team leadership"
+    ],
+    "benefits": [
+      "Bonus program",
+      "Remote hybrid",
+      "Parental leave"
+    ],
+    "companyOverview": "FinTech Pro provides secure financial technology solutions.",
+    "companyWebsite": "https://fintechpro.example.com",
+    "companySize": "200-500",
+    "industry": "Finance"
+  },
+  {
+    "id": "6",
+    "title": "Junior iOS Developer",
+    "company": "EduLearn",
+    "companyLogo": "book.fill",
+    "location": "Boston, MA",
+    "salaryRange": "$70k-$90k",
+    "employmentType": "Full-time",
+    "postedDate": "2026-06-10",
+    "experienceRequired": "0-2 years",
+    "description": "Start your iOS career building educational apps.",
+    "responsibilities": [
+      "Implement features under guidance",
+      "Write tests",
+      "Participate in code reviews"
+    ],
+    "requirements": [
+      "CS degree or bootcamp",
+      "Swift basics",
+      "Eagerness to learn"
+    ],
+    "benefits": [
+      "Mentorship program",
+      "Tuition reimbursement"
+    ],
+    "companyOverview": "EduLearn makes learning accessible to everyone.",
+    "companyWebsite": "https://edulearn.example.com",
+    "companySize": "100-200",
+    "industry": "Education"
+  }
+]
