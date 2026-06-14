@@ -1,4 +1,4 @@
-# JobSearch
+# JobFinder
 
 A production-ready iOS application built using SwiftUI and MVVM architecture that allows users to browse available jobs, search opportunities, and view detailed job information.
 
@@ -44,9 +44,11 @@ A production-ready iOS application built using SwiftUI and MVVM architecture tha
 
 ## Screenshots
 
-| Job Listing    | Job Details    |
-| -------------- | -------------- |
-| Add Screenshot | Add Screenshot |
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 42" src="https://github.com/user-attachments/assets/3f1d203c-b718-4a27-80e4-fd39f59d4732" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 31" src="https://github.com/user-attachments/assets/5cd82654-d67b-4efb-93ad-83bd213b3d8a" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 23" src="https://github.com/user-attachments/assets/42550ccd-763c-4c9e-b2ee-bd37b6f33403" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 19" src="https://github.com/user-attachments/assets/a1e4505d-8f5f-47d1-9f06-66d170ee789c" />
+
 
 ---
 
@@ -111,15 +113,15 @@ Responsible for data retrieval and persistence.
 ## Project Structure
 
 ```text
-JobSearch
+JobFinder
 │
 ├── App
-│   └── JobSearchApp.swift
-│   └── AppContainer.swift
+│   └── JobFinderApp.swift
 │
 ├── Core
+│   ├── DI
 │   ├── DesignSystem
-│   ├── Network
+│   ├── Extensions
 │   ├── Utilities
 │   └── Navigation
 │
@@ -139,11 +141,10 @@ JobSearch
 │
 ├── Resources
 │   └── jobs.json
-│   └── Assets
 │
 └── Tests
-    ├── JobSearchTests
-    └── JobSearchUITests
+    ├── ViewModelTests
+    └── ServiceTests
 ```
 
 ---
@@ -262,7 +263,7 @@ git clone <repository-url>
 2. Open the project
 
 ```bash
-open JobSearch.xcodeproj
+open JobFinder.xcodeproj
 ```
 
 3. Build and run
@@ -358,4 +359,3 @@ Developed as part of an iOS engineering assessment to demonstrate:
 * Testing
 * Clean Architecture
 * Production-ready code organization
-
