@@ -44,9 +44,11 @@ A production-ready iOS application built using SwiftUI and MVVM architecture tha
 
 ## Screenshots
 
-| Job Listing    | Job Details    |
-| -------------- | -------------- |
-| Add Screenshot | Add Screenshot |
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 42" src="https://github.com/user-attachments/assets/3f1d203c-b718-4a27-80e4-fd39f59d4732" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 31" src="https://github.com/user-attachments/assets/5cd82654-d67b-4efb-93ad-83bd213b3d8a" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 23" src="https://github.com/user-attachments/assets/42550ccd-763c-4c9e-b2ee-bd37b6f33403" />
+<img width="1170" height="2532" alt="Simulator Screenshot - iPhone 13 - 2026-06-14 at 10 22 19" src="https://github.com/user-attachments/assets/a1e4505d-8f5f-47d1-9f06-66d170ee789c" />
+
 
 ---
 
